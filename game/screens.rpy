@@ -750,7 +750,7 @@ screen preferences():
                 vbox:
                     style_prefix "radio"
                     label _("Language")
-                    textbutton "English" action Language(None)
+                    textbutton "Russian" action Language(None)
                     textbutton "Spanish" action Language("spanish")
 
                 vbox:
